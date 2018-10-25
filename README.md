@@ -1,7 +1,5 @@
 # react-native-shop-ui-expo
-A react native clothes shopping app UI - Expo Version
-
-orginal source: https://github.com/ATF19/react-native-shop-ui
+This is the expo version of the project [**react-native-shop-ui**](https://github.com/ATF19/react-native-shop-ui)
 
 
 
