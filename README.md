@@ -7,7 +7,7 @@ orginal source: https://github.com/ATF19/react-native-shop-ui
 
 
 # How to use:
- - Open cmd than type the following
+ - Open cmd and type the following
  - `git clone https://github.com/bhlshrf/react-native-shop-ui-expo`
  - `cd ShopApp`
  - `npm install`
