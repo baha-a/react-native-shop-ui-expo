@@ -7,7 +7,7 @@ This is the expo version of the project [**react-native-shop-ui**](https://githu
 # How to use:
  - Open cmd and type the following
  - `git clone https://github.com/bhlshrf/react-native-shop-ui-expo`
- - `cd ShopApp`
+ - `cd react-native-shop-ui-expo`
  - `npm install`
  - `expo start`
  - install expo in your phone, open it, scan the QR code
